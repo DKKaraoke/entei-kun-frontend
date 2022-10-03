@@ -1,7 +1,7 @@
 {
   "name": "entei-kun-frontend",
   "version": "1.2.0",
-  "description": "The backyard of Entei-kun",
+  "description": "The frontend of Entei-kun",
   "author": "soltia48",
   "license": "UNLICENSED",
   "private": true,
