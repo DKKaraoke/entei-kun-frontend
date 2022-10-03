@@ -5,7 +5,7 @@
  */
 
 import { AxiosInstance } from "axios";
-import { NextApiRequestQuery } from "next/dist/next-server/server/api-utils";
+import { NextApiRequestQuery } from "next/dist/server/api-utils";
 
 export interface GetPaginatedOptions {
   start?: number;
